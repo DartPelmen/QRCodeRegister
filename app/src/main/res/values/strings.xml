@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Контроль мероприятий</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="current_events">Текущие мероприятия</string>
+    <string name="add_event">Добавить событие</string>
+    <string name="event_name">Название мероприятия</string>
+    <string name="not_selected">Не выбрано</string>
+    <string name="choose_start_time">Выбрать время начала</string>
+    <string name="choose_end_time">Выбрать время конца</string>
+    <string name="add_participants">Добавить участников</string>
+    <string name="download">Скачать</string>
+    <string name="event_participants">Участники мероприятия</string>
+    <string name="customer_list">Список участников</string>
+    <string name="new_event">Новое мероприятие</string>
+    <string name="fill_manual">Заполнить самостоятельно</string>
+    <string name="new_participant">НОВЫЙ УЧАСТНИК</string>
+    <string name="firstName">Имя</string>
+    <string name="lastName">Фамилия</string>
+    <string name="patronymic">Отчество</string>
+    <string name="office">Подразделение</string>
+    <string name="rank">Должность</string>
+    <string name="addParticipant">Добавить участника</string>
+    <string name="addManually">Добавить вручную</string>
+    <string name="needToFillThis">Это поле нужно заполнить!</string>
+    <string name="phone">Телефон (+7XXXXXXXXXX)</string>
+    <string name="newParticipant">Новый участник</string>
+    <string name="patronymicOptional">Отчество (при наличии)</string>
+</resources>
